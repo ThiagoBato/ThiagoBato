@@ -5,3 +5,4 @@
 
 - 🔭 Working at Moka Digital (www.mokadigital.com.br)
 - 🌱 I’m currently learning ReactJS
+- 🤩 Searching for new jobs oportunities.
