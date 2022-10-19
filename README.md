@@ -9,6 +9,6 @@
 <hr />
 
 Projects live:
-- <a href:"https://rocketpay-homepage.vercel.app/">Rocketpay</a>
+- <a href="https://rocketpay-homepage.vercel.app/">Rocketpay</a>
 - Technologies: HTML, CSS, JavaScript, Node, Vite e iMask.
 <hr />
