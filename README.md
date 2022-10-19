@@ -6,8 +6,9 @@
 - 🔭 Working at Moka Digital (www.mokadigital.com.br)
 - 🌱 I’m currently learning ReactJS
 - 📩 Contacts: <a href="https://www.linkedin.com/in/thiagoov/">Linkedin</a> - <a href="mailto:thiago.ov@hotmail.com"/>thiago.ov@hotmail.com</a>
+<hr />
 
 Projects live:
 - <a href:"https://rocketpay-homepage.vercel.app/">Rocketpay</a>
-- - Technologies: HTML, CSS, JavaScript, Node, Vite e iMask.
+- Technologies: HTML, CSS, JavaScript, Node, Vite e iMask.
 <hr />
