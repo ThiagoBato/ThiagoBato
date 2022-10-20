@@ -10,6 +10,6 @@
 
 Projects:
 - 💻 <a href="https://rocketpay-homepage.vercel.app/">Rocketpay</a>
-- Technologies: HTML, CSS, JavaScript, Node, Vite e iMask.
+- Technologies: HTML, CSS, JavaScript, Node, Vite and iMask.
 - <a href="https://github.com/ThiagoBato/explorer-lab-01">Repository</a>
 <hr />
