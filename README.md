@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-10 years of experience in HTML/CSS/JS
+Front-end developer since 2012 🤓
 
 - 🔭 Working at Moka Digital (www.mokadigital.com.br)
 <!--
