@@ -3,7 +3,7 @@
 
 Front-end developer since 2012 🤓
 
-- 🔭 Working at Moka Digital (www.mokadigital.com.br)
+- 🔭 Working at [Moka Digital](www.mokadigital.com.br)
 <!--
 - 🌱 I’m currently learning ReactJS
 -->
