@@ -27,11 +27,7 @@ Front-end developer since 2012 🤓
 ![Figma](https://img.shields.io/badge/Figma-696969?style=for-the-badge&logo=figma&logoColor=figma)
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 
-## GitHub Stats
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ThiagoBato&theme=transparent&bg_color=000&border_color=000&show_icons=true&icon_color=30A3DC&title_color=AA88FE&text_color=FFF)
-
-## Most used languages
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ThiagoBato&layout=compact&bg_color=000&border_color=000&title_color=AA88FE&text_color=FFF)
 
