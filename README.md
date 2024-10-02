@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 
-Front-end Developer since 2012. Experienced in React and currently expanding skills in .NET and Azure.
+Front-end Developer since 2012. 
+Experienced in React and currently expanding skills in .NET and Azure.
 
 📚 Graduated in Systems Analysis and Development.
 
