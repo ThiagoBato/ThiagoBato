@@ -4,8 +4,7 @@
 Front-end Developer since 2012.<br /> 
 Experienced in React and currently expanding skills in .NET and Azure.
 
-📚 Graduated in Systems Analysis and Development.
-
+📚 Graduated in Systems Analysis and Development.<br />
 📚 Postgraduate in Software Engineering.
 
 - 🔭 Working at [Moka Digital](www.mokadigital.com.br)
