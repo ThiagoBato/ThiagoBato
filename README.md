@@ -2,7 +2,7 @@
 
 
 Front-end Developer since 2012.<br /> 
-Experienced in React and currently expanding skills in Angular, .NET, Azure and Cybersecurity.
+Experienced in React and currently expanding skills in Cybersecurity.
 
 📚 Graduated in Systems Analysis and Development.<br />
 📚 Postgraduate in Software Engineering.<br />
