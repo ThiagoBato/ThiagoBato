@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-Full Stack Developer | Software Engineer | PHP | ReactJS
+Full Stack Developer | Software Engineer | PHP | ReactJS <br />
 Experienced in PHP, React and currently expanding skills in Cybersecurity.
 
 📚 Graduated in Systems Analysis and Development.<br />
