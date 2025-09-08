@@ -2,11 +2,10 @@
 
 
 Full Stack Developer | PHP | Laravel | ReactJS | VueJS <br />
-Experienced in PHP, Laravel, React, Vue and currently expanding skills in Cybersecurity.
+Experienced in PHP, JavaScript, Laravel, React, Vue.
 
 📚 Graduated in Systems Analysis and Development.<br />
 📚 Postgraduate in Software Engineering.<br />
-📚 Currently pursuing an MBA in Information Security.
 
 - 🔭 Working at [Moka Digital](www.mokadigital.com.br)
 <!--
