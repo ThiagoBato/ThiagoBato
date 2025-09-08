@@ -2,7 +2,7 @@
 
 
 Full Stack Developer | PHP | Laravel | ReactJS | VueJS <br />
-Experienced in PHP, JavaScript, Laravel, React, Vue.
+Experienced in PHP, JavaScript, Laravel, React & Vue.
 
 📚 Graduated in Systems Analysis and Development.<br />
 📚 Postgraduate in Software Engineering.<br />
