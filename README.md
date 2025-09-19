@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 
-Full Stack Developer | PHP | Laravel | ReactJS | VueJS <br />
-Experienced in PHP, JavaScript, Laravel, React & Vue.
+Full Stack Developer | Laravel | InertiaJS | ReactJS | NextJS <br />
+Experienced in Laravel, Inertia, Typescript, React & Next.
 
 📚 Graduated in Systems Analysis and Development.<br />
 📚 Postgraduate in Software Engineering.<br />
@@ -24,9 +24,10 @@ Experienced in PHP, JavaScript, Laravel, React & Vue.
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Vue](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![Next](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-000?style=for-the-badge&logo=sass)
 ![Tailwind](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-000?style=for-the-badge&logo=bootstrap&logoColor=553C7B)
