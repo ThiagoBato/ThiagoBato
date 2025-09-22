@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 
-Full Stack Developer | Laravel | InertiaJS | ReactJS | NextJS <br />
-Experienced in Laravel, Inertia, Typescript, React & Next.
+Full Stack Developer | Laravel | VueJS | ReactJS | NextJS | TailwindCSS <br />
+Experienced in Laravel, Inertia, Typescript, Vue, React, Next & TailwindCSS.
 
 📚 Graduated in Systems Analysis and Development.<br />
 📚 Postgraduate in Software Engineering.<br />
@@ -25,6 +25,7 @@ Experienced in Laravel, Inertia, Typescript, React & Next.
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Vue](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![Next](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
