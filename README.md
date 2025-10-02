@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-Full Stack Developer | Laravel | InertiaJS | VueJS | NuxtJS | TailwindCSS <br />
+Front-end Engineer  - VueJS | NuxtJS | ReactJS | TailwindCSS <br />
 Experienced in Laravel, Inertia, Typescript, Vue, Nuxt, React & TailwindCSS.
 
 📚 Graduated in Systems Analysis and Development.<br />
