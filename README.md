@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 
-Front-end Engineer  - VueJS | NuxtJS | ReactJS | TailwindCSS <br />
-Experienced in Laravel, Inertia, Typescript, Vue, Nuxt, React, Next & TailwindCSS.
+Front-end Engineer - VueJS | NuxtJS | TailwindCSS <br />
+Experienced in Laravel, Inertia, Typescript, Vue, Nuxt, React & TailwindCSS.
 
 📚 Graduated in Systems Analysis and Development.<br />
 📚 Postgraduate in Software Engineering.<br />
@@ -30,13 +30,12 @@ Experienced in Laravel, Inertia, Typescript, Vue, Nuxt, React, Next & TailwindCS
 ![Firebase](https://img.shields.io/badge/Firebase-000?style=for-the-badge&logo=firebase&logoColor=DD2B01)
 ![Vue](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![Nuxt](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-000?style=for-the-badge&logo=sass)
 ![Tailwind](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-000?style=for-the-badge&logo=bootstrap&logoColor=553C7B)
 [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
+![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-696969?style=for-the-badge&logo=figma&logoColor=figma)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ThiagoBato&theme=transparent&bg_color=000&border_color=000&show_icons=true&icon_color=30A3DC&title_color=AA88FE&text_color=FFF)
